@@ -1,5 +1,11 @@
 # @workflow/web
 
+## 4.0.1-beta.4
+
+### Patch Changes
+
+- dbf2207: Web: refactor active/hover styles from trace viewer to avoid color conflicts
+
 ## 4.0.1-beta.3
 
 ### Patch Changes
